@@ -1,3 +1,4 @@
 # assignment-1
 
-my first repository. reated
+my first repository. 
+Created o learn git
